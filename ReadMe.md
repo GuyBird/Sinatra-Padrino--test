@@ -1,5 +1,7 @@
 27/07/18
-Simple Hello World in Sinatra
+
+Simple test of sinatra
+
 Uses port 4567
 
 
