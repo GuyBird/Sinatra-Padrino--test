@@ -1,6 +1,6 @@
 27/07/18
 
-Simple test of sinatra
+Simple test of sinatra, asks for input then finds if it is a square
 
 Uses port 4567
 
